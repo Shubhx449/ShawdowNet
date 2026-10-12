@@ -1,0 +1,26 @@
+{
+"adapters": [
+{
+"kind": "simulator",
+"simulated_time": true,
+"failure_injection": true,
+"decision_trace": true,
+"algorithms": [
+"AEAR",
+"RSSI",
+"AODV"
+],
+"available": true
+},
+{
+"kind": "lora",
+"simulated_time": false,
+"failure_injection": false,
+"decision_trace": false,
+"algorithms": [
+"AEAR"
+],
+"available": false
+}
+]
+}

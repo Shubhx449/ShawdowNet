@@ -1,0 +1,480 @@
+{
+"metrics": {
+"avg_emergency_delay_s": [
+{
+"algorithm": "AEAR",
+"mean": 0.0333,
+"std": 0.0471
+},
+{
+"algorithm": "RSSI",
+"mean": 0.15,
+"std": 0.2121
+},
+{
+"algorithm": "AODV",
+"mean": 0.15,
+"std": 0.0707
+}
+],
+"avg_end_to_end_delay_s": [
+{
+"algorithm": "AEAR",
+"mean": 0.1496,
+"std": 0.0112
+},
+{
+"algorithm": "RSSI",
+"mean": 0.2985,
+"std": 0.0072
+},
+{
+"algorithm": "AODV",
+"mean": 0.2043,
+"std": 0.023
+}
+],
+"avg_hop_count": [
+{
+"algorithm": "AEAR",
+"mean": 3.9917,
+"std": 0.2239
+},
+{
+"algorithm": "RSSI",
+"mean": 6.969,
+"std": 0.1448
+},
+{
+"algorithm": "AODV",
+"mean": 2.0112,
+"std": 0.1505
+}
+],
+"avg_queue_length": [
+{
+"algorithm": "AEAR",
+"mean": null,
+"std": null
+},
+{
+"algorithm": "RSSI",
+"mean": null,
+"std": null
+},
+{
+"algorithm": "AODV",
+"mean": null,
+"std": null
+}
+],
+"avg_queue_utilization_percent": [
+{
+"algorithm": "AEAR",
+"mean": null,
+"std": null
+},
+{
+"algorithm": "RSSI",
+"mean": null,
+"std": null
+},
+{
+"algorithm": "AODV",
+"mean": null,
+"std": null
+}
+],
+"avg_recovery_time_s": [
+{
+"algorithm": "AEAR",
+"mean": null,
+"std": null
+},
+{
+"algorithm": "RSSI",
+"mean": null,
+"std": null
+},
+{
+"algorithm": "AODV",
+"mean": null,
+"std": null
+}
+],
+"delivered_packets": [
+{
+"algorithm": "AEAR",
+"mean": 19,
+"std": 1.4142
+},
+{
+"algorithm": "RSSI",
+"mean": 14.5,
+"std": 0.7071
+},
+{
+"algorithm": "AODV",
+"mean": 19,
+"std": 2.8284
+}
+],
+"duplicate_forward_count": [
+{
+"algorithm": "AEAR",
+"mean": 0,
+"std": 0.0
+},
+{
+"algorithm": "RSSI",
+"mean": 0,
+"std": 0.0
+},
+{
+"algorithm": "AODV",
+"mean": 0,
+"std": 0.0
+}
+],
+"duplicate_packet_rate_percent": [
+{
+"algorithm": "AEAR",
+"mean": 0.0,
+"std": 0.0
+},
+{
+"algorithm": "RSSI",
+"mean": 0.0,
+"std": 0.0
+},
+{
+"algorithm": "AODV",
+"mean": 0.0,
+"std": 0.0
+}
+],
+"emergency_packets_delivered": [
+{
+"algorithm": "AEAR",
+"mean": 2,
+"std": 1.4142
+},
+{
+"algorithm": "RSSI",
+"mean": 1.5,
+"std": 0.7071
+},
+{
+"algorithm": "AODV",
+"mean": 2,
+"std": 1.4142
+}
+],
+"emergency_packets_generated": [
+{
+"algorithm": "AEAR",
+"mean": 2.5,
+"std": 0.7071
+},
+{
+"algorithm": "RSSI",
+"mean": 2.5,
+"std": 0.7071
+},
+{
+"algorithm": "AODV",
+"mean": 2.5,
+"std": 0.7071
+}
+],
+"emergency_pdr_percent": [
+{
+"algorithm": "AEAR",
+"mean": 75.0,
+"std": 35.3553
+},
+{
+"algorithm": "RSSI",
+"mean": 58.3333,
+"std": 11.7851
+},
+{
+"algorithm": "AODV",
+"mean": 75.0,
+"std": 35.3553
+}
+],
+"failed_forwarding_attempts": [
+{
+"algorithm": "AEAR",
+"mean": 0,
+"std": 0.0
+},
+{
+"algorithm": "RSSI",
+"mean": 0,
+"std": 0.0
+},
+{
+"algorithm": "AODV",
+"mean": 0,
+"std": 0.0
+}
+],
+"forwarding_decisions": [
+{
+"algorithm": "AEAR",
+"mean": 86.5,
+"std": 24.7487
+},
+{
+"algorithm": "RSSI",
+"mean": 141,
+"std": 21.2132
+},
+{
+"algorithm": "AODV",
+"mean": 38,
+"std": 2.8284
+}
+],
+"generated_packets": [
+{
+"algorithm": "AEAR",
+"mean": 21,
+"std": 4.2426
+},
+{
+"algorithm": "RSSI",
+"mean": 21,
+"std": 4.2426
+},
+{
+"algorithm": "AODV",
+"mean": 21,
+"std": 4.2426
+}
+],
+"max_queue_length": [
+{
+"algorithm": "AEAR",
+"mean": null,
+"std": null
+},
+{
+"algorithm": "RSSI",
+"mean": null,
+"std": null
+},
+{
+"algorithm": "AODV",
+"mean": null,
+"std": null
+}
+],
+"packet_loss": [
+{
+"algorithm": "AEAR",
+"mean": 2,
+"std": 2.8284
+},
+{
+"algorithm": "RSSI",
+"mean": 6.5,
+"std": 4.9497
+},
+{
+"algorithm": "AODV",
+"mean": 2,
+"std": 1.4142
+}
+],
+"packet_loss_rate_percent": [
+{
+"algorithm": "AEAR",
+"mean": 8.3333,
+"std": 11.7851
+},
+{
+"algorithm": "RSSI",
+"mean": 29.1667,
+"std": 17.6777
+},
+{
+"algorithm": "AODV",
+"mean": 9.0278,
+"std": 4.9105
+}
+],
+"packets_buffered_events": [
+{
+"algorithm": "AEAR",
+"mean": 1.5,
+"std": 2.1213
+},
+{
+"algorithm": "RSSI",
+"mean": 5,
+"std": 5.6569
+},
+{
+"algorithm": "AODV",
+"mean": 17,
+"std": 2.8284
+}
+],
+"pdr_percent": [
+{
+"algorithm": "AEAR",
+"mean": 91.6667,
+"std": 11.7851
+},
+{
+"algorithm": "RSSI",
+"mean": 70.8333,
+"std": 17.6777
+},
+{
+"algorithm": "AODV",
+"mean": 90.9722,
+"std": 4.9105
+}
+],
+"queue_overflow_count": [
+{
+"algorithm": "AEAR",
+"mean": 0,
+"std": 0.0
+},
+{
+"algorithm": "RSSI",
+"mean": 0,
+"std": 0.0
+},
+{
+"algorithm": "AODV",
+"mean": 0,
+"std": 0.0
+}
+],
+"recovery_events_count": [
+{
+"algorithm": "AEAR",
+"mean": 0,
+"std": 0.0
+},
+{
+"algorithm": "RSSI",
+"mean": 0,
+"std": 0.0
+},
+{
+"algorithm": "AODV",
+"mean": 0,
+"std": 0.0
+}
+],
+"retransmissions": [
+{
+"algorithm": "AEAR",
+"mean": 0,
+"std": 0.0
+},
+{
+"algorithm": "RSSI",
+"mean": 0,
+"std": 0.0
+},
+{
+"algorithm": "AODV",
+"mean": 0,
+"std": 0.0
+}
+],
+"routing_overhead_control_messages": [
+{
+"algorithm": "AEAR",
+"mean": 0,
+"std": 0.0
+},
+{
+"algorithm": "RSSI",
+"mean": 0,
+"std": 0.0
+},
+{
+"algorithm": "AODV",
+"mean": 267.5,
+"std": 33.234
+}
+],
+"successful_forwarding_attempts": [
+{
+"algorithm": "AEAR",
+"mean": 86.5,
+"std": 24.7487
+},
+{
+"algorithm": "RSSI",
+"mean": 141,
+"std": 21.2132
+},
+{
+"algorithm": "AODV",
+"mean": 38,
+"std": 2.8284
+}
+],
+"successfully_recovered_buffered_packets": [
+{
+"algorithm": "AEAR",
+"mean": 0,
+"std": 0.0
+},
+{
+"algorithm": "RSSI",
+"mean": 0,
+"std": 0.0
+},
+{
+"algorithm": "AODV",
+"mean": 15,
+"std": 1.4142
+}
+],
+"throughput_packets_per_s": [
+{
+"algorithm": "AEAR",
+"mean": 0.95,
+"std": 0.0707
+},
+{
+"algorithm": "RSSI",
+"mean": 0.725,
+"std": 0.0354
+},
+{
+"algorithm": "AODV",
+"mean": 0.95,
+"std": 0.1414
+}
+],
+"unique_packets_buffered": [
+{
+"algorithm": "AEAR",
+"mean": 1.5,
+"std": 2.1213
+},
+{
+"algorithm": "RSSI",
+"mean": 5,
+"std": 5.6569
+},
+{
+"algorithm": "AODV",
+"mean": 17,
+"std": 2.8284
+}
+]
+}
+}

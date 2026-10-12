@@ -1,0 +1,16 @@
+{
+"experiments": [
+{
+"id": "1cb998664cf1",
+"name": "ui fixture",
+"status": "completed",
+"algorithms": [
+"AEAR",
+"RSSI",
+"AODV"
+],
+"total_runs": 6,
+"generated_at_utc": "2026-09-30T04:07:28.502403+00:00"
+}
+]
+}

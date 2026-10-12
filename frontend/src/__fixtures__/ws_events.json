@@ -1,0 +1,821 @@
+{
+"type": "events",
+"events": [
+{
+"event_id": 1,
+"timestamp": 0.0,
+"event_type": "PACKET_GENERATED",
+"node_id": "N1",
+"packet_id": "P001",
+"algorithm": null,
+"metadata": {
+"packet_type": "EMERGENCY",
+"priority": 2,
+"destination": "N9"
+}
+},
+{
+"event_id": 2,
+"timestamp": 0.0,
+"event_type": "NEIGHBOR_DISCOVERED",
+"node_id": "N1",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"neighbors": [
+"N2",
+"N3",
+"N5",
+"N6",
+"N8",
+"N10",
+"N13"
+]
+}
+},
+{
+"event_id": 3,
+"timestamp": 0.0,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N1",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N2",
+"score": 0.2263,
+"rssi_dbm": -96.71,
+"normalized_rssi": 0.0877,
+"estimated_hops": 3,
+"hop_efficiency": 0.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "EVALUATED"
+}
+},
+{
+"event_id": 4,
+"timestamp": 0.0,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N1",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N3",
+"score": 0.7472,
+"rssi_dbm": -95.91,
+"normalized_rssi": 0.1573,
+"estimated_hops": 2,
+"hop_efficiency": 1.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "EVALUATED"
+}
+},
+{
+"event_id": 5,
+"timestamp": 0.0,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N1",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N5",
+"score": 0.7,
+"rssi_dbm": -97.7,
+"normalized_rssi": 0.0,
+"estimated_hops": 2,
+"hop_efficiency": 1.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "EVALUATED"
+}
+},
+{
+"event_id": 6,
+"timestamp": 0.0,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N1",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N6",
+"score": 0.3589,
+"rssi_dbm": -91.67,
+"normalized_rssi": 0.5297,
+"estimated_hops": 3,
+"hop_efficiency": 0.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "EVALUATED"
+}
+},
+{
+"event_id": 7,
+"timestamp": 0.0,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N1",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N8",
+"score": 0.5,
+"rssi_dbm": -86.32,
+"normalized_rssi": 1.0,
+"estimated_hops": 3,
+"hop_efficiency": 0.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "EVALUATED"
+}
+},
+{
+"event_id": 8,
+"timestamp": 0.0,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N1",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N10",
+"score": 0.803,
+"rssi_dbm": -93.79,
+"normalized_rssi": 0.3434,
+"estimated_hops": 2,
+"hop_efficiency": 1.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "SELECTED"
+}
+},
+{
+"event_id": 9,
+"timestamp": 0.0,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N1",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N13",
+"score": 0.4334,
+"rssi_dbm": -88.85,
+"normalized_rssi": 0.778,
+"estimated_hops": 3,
+"hop_efficiency": 0.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "EVALUATED"
+}
+},
+{
+"event_id": 10,
+"timestamp": 0.0,
+"event_type": "FORWARDING_DECISION",
+"node_id": "N1",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"selected": "N10",
+"score": 0.803,
+"candidate_count": 7
+}
+},
+{
+"event_id": 11,
+"timestamp": 0.0,
+"event_type": "PACKET_FORWARDED",
+"node_id": "N1",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"to_node": "N10",
+"hop_count": 1,
+"ttl_remaining": 11
+}
+},
+{
+"event_id": 12,
+"timestamp": 0.05,
+"event_type": "PACKET_RECEIVED",
+"node_id": "N10",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {}
+},
+{
+"event_id": 13,
+"timestamp": 0.05,
+"event_type": "NEIGHBOR_DISCOVERED",
+"node_id": "N10",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"neighbors": [
+"N1",
+"N2",
+"N3",
+"N12"
+]
+}
+},
+{
+"event_id": 14,
+"timestamp": 0.05,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N10",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N2",
+"score": 0.2,
+"rssi_dbm": -96.17,
+"normalized_rssi": 0.0,
+"estimated_hops": 3,
+"hop_efficiency": 0.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "EVALUATED"
+}
+},
+{
+"event_id": 15,
+"timestamp": 0.05,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N10",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N3",
+"score": 1.0,
+"rssi_dbm": -71.26,
+"normalized_rssi": 1.0,
+"estimated_hops": 2,
+"hop_efficiency": 1.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "SELECTED"
+}
+},
+{
+"event_id": 16,
+"timestamp": 0.05,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N10",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N12",
+"score": 0.7173,
+"rssi_dbm": -94.73,
+"normalized_rssi": 0.0577,
+"estimated_hops": 2,
+"hop_efficiency": 1.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "EVALUATED"
+}
+},
+{
+"event_id": 17,
+"timestamp": 0.05,
+"event_type": "FORWARDING_DECISION",
+"node_id": "N10",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"selected": "N3",
+"score": 1.0,
+"candidate_count": 3
+}
+},
+{
+"event_id": 18,
+"timestamp": 0.05,
+"event_type": "PACKET_FORWARDED",
+"node_id": "N10",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"to_node": "N3",
+"hop_count": 2,
+"ttl_remaining": 10
+}
+},
+{
+"event_id": 19,
+"timestamp": 0.1,
+"event_type": "PACKET_RECEIVED",
+"node_id": "N3",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {}
+},
+{
+"event_id": 20,
+"timestamp": 0.1,
+"event_type": "NEIGHBOR_DISCOVERED",
+"node_id": "N3",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"neighbors": [
+"N1",
+"N2",
+"N10",
+"N12",
+"N15"
+]
+}
+},
+{
+"event_id": 21,
+"timestamp": 0.1,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N3",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N2",
+"score": 0.3565,
+"rssi_dbm": -97.28,
+"normalized_rssi": 0.5215,
+"estimated_hops": 3,
+"hop_efficiency": 0.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "EVALUATED"
+}
+},
+{
+"event_id": 22,
+"timestamp": 0.1,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N3",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N12",
+"score": 1.0,
+"rssi_dbm": -92.34,
+"normalized_rssi": 1.0,
+"estimated_hops": 2,
+"hop_efficiency": 1.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "SELECTED"
+}
+},
+{
+"event_id": 23,
+"timestamp": 0.1,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N3",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N15",
+"score": 0.7,
+"rssi_dbm": -102.66,
+"normalized_rssi": 0.0,
+"estimated_hops": 2,
+"hop_efficiency": 1.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "EVALUATED"
+}
+},
+{
+"event_id": 24,
+"timestamp": 0.1,
+"event_type": "FORWARDING_DECISION",
+"node_id": "N3",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"selected": "N12",
+"score": 1.0,
+"candidate_count": 3
+}
+},
+{
+"event_id": 25,
+"timestamp": 0.1,
+"event_type": "PACKET_FORWARDED",
+"node_id": "N3",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"to_node": "N12",
+"hop_count": 3,
+"ttl_remaining": 9
+}
+},
+{
+"event_id": 26,
+"timestamp": 0.15000000000000002,
+"event_type": "PACKET_RECEIVED",
+"node_id": "N12",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {}
+},
+{
+"event_id": 27,
+"timestamp": 0.15000000000000002,
+"event_type": "NEIGHBOR_DISCOVERED",
+"node_id": "N12",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"neighbors": [
+"N2",
+"N3",
+"N10",
+"N11"
+]
+}
+},
+{
+"event_id": 28,
+"timestamp": 0.15000000000000002,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N12",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N2",
+"score": 0.5,
+"rssi_dbm": -96.13,
+"normalized_rssi": 1.0,
+"estimated_hops": 3,
+"hop_efficiency": 0.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "SELECTED"
+}
+},
+{
+"event_id": 29,
+"timestamp": 0.15000000000000002,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N12",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N11",
+"score": 0.2,
+"rssi_dbm": -96.71,
+"normalized_rssi": 0.0,
+"estimated_hops": 3,
+"hop_efficiency": 0.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "EVALUATED"
+}
+},
+{
+"event_id": 30,
+"timestamp": 0.15000000000000002,
+"event_type": "FORWARDING_DECISION",
+"node_id": "N12",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"selected": "N2",
+"score": 0.5,
+"candidate_count": 2
+}
+},
+{
+"event_id": 31,
+"timestamp": 0.15000000000000002,
+"event_type": "PACKET_FORWARDED",
+"node_id": "N12",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"to_node": "N2",
+"hop_count": 4,
+"ttl_remaining": 8
+}
+},
+{
+"event_id": 32,
+"timestamp": 0.2,
+"event_type": "PACKET_RECEIVED",
+"node_id": "N2",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {}
+},
+{
+"event_id": 33,
+"timestamp": 0.2,
+"event_type": "NEIGHBOR_DISCOVERED",
+"node_id": "N2",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"neighbors": [
+"N1",
+"N3",
+"N10",
+"N11",
+"N12"
+]
+}
+},
+{
+"event_id": 34,
+"timestamp": 0.2,
+"event_type": "CANDIDATE_EVALUATED",
+"node_id": "N2",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"candidate": "N11",
+"score": 0.5,
+"rssi_dbm": -88.99,
+"normalized_rssi": 1.0,
+"estimated_hops": 3,
+"hop_efficiency": 0.0,
+"queue_occupancy": 0,
+"queue_capacity": 30,
+"congestion_availability": 1.0,
+"weights": {
+"signal": 0.3,
+"hop": 0.5,
+"congestion": 0.2
+},
+"status": "SELECTED"
+}
+},
+{
+"event_id": 35,
+"timestamp": 0.2,
+"event_type": "FORWARDING_DECISION",
+"node_id": "N2",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"selected": "N11",
+"score": 0.5,
+"candidate_count": 1
+}
+},
+{
+"event_id": 36,
+"timestamp": 0.2,
+"event_type": "PACKET_FORWARDED",
+"node_id": "N2",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"to_node": "N11",
+"hop_count": 5,
+"ttl_remaining": 7
+}
+},
+{
+"event_id": 37,
+"timestamp": 0.25,
+"event_type": "PACKET_RECEIVED",
+"node_id": "N11",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {}
+},
+{
+"event_id": 38,
+"timestamp": 0.25,
+"event_type": "NEIGHBOR_DISCOVERED",
+"node_id": "N11",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"neighbors": [
+"N2",
+"N12"
+]
+}
+},
+{
+"event_id": 39,
+"timestamp": 0.25,
+"event_type": "PACKET_BUFFERED",
+"node_id": "N11",
+"packet_id": "P001",
+"algorithm": "AEAR",
+"metadata": {
+"reason": "No valid forwarding candidate (all neighbors visited, failed, or unreachable)"
+}
+}
+],
+"state": {
+"algorithm": "AEAR",
+"clock": 0.25,
+"playhead": 0.25,
+"pending_events": 0,
+"nodes": {
+"N1": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+},
+"N2": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+},
+"N3": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+},
+"N4": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+},
+"N5": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+},
+"N6": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+},
+"N7": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+},
+"N8": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+},
+"N9": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+},
+"N10": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+},
+"N11": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+},
+"N12": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+},
+"N13": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+},
+"N14": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+},
+"N15": {
+"status": "NORMAL",
+"queue": 0,
+"capacity": 30,
+"failed": false
+}
+},
+"failed_links": [],
+"packets": {
+"P001": {
+"status": "BUFFERED",
+"type": "EMERGENCY",
+"source": "N1",
+"destination": "N9",
+"current_node": "N11",
+"hop_count": 5,
+"ttl": 7,
+"path": [
+"N1",
+"N10",
+"N3",
+"N12",
+"N2",
+"N11"
+]
+}
+}
+}
+}

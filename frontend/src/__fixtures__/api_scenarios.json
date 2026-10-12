@@ -1,0 +1,15 @@
+{
+"scenarios": [
+{
+"id": "0133df22aefc",
+"name": "ui fixture",
+"num_nodes": 15,
+"algorithms": [
+"AEAR",
+"RSSI",
+"AODV"
+],
+"num_runs": 2
+}
+]
+}

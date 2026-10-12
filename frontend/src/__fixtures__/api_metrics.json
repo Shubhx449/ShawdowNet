@@ -1,0 +1,728 @@
+{
+"AEAR": {
+"generated_packets": {
+"mean": 21,
+"std": 4.2426,
+"ci_95": [
+15.12,
+26.88
+],
+"n": 2
+},
+"delivered_packets": {
+"mean": 19,
+"std": 1.4142,
+"ci_95": [
+17.04,
+20.96
+],
+"n": 2
+},
+"pdr_percent": {
+"mean": 91.6667,
+"std": 11.7851,
+"ci_95": [
+75.3333,
+108.0
+],
+"n": 2
+},
+"avg_end_to_end_delay_s": {
+"mean": 0.1496,
+"std": 0.0112,
+"ci_95": [
+0.1341,
+0.1651
+],
+"n": 2
+},
+"avg_hop_count": {
+"mean": 3.9917,
+"std": 0.2239,
+"ci_95": [
+3.6813,
+4.302
+],
+"n": 2
+},
+"packet_loss": {
+"mean": 2,
+"std": 2.8284,
+"ci_95": [
+-1.92,
+5.92
+],
+"n": 2
+},
+"packet_loss_rate_percent": {
+"mean": 8.3333,
+"std": 11.7851,
+"ci_95": [
+-8.0,
+24.6667
+],
+"n": 2
+},
+"throughput_packets_per_s": {
+"mean": 0.95,
+"std": 0.0707,
+"ci_95": [
+0.852,
+1.048
+],
+"n": 2
+},
+"emergency_packets_generated": {
+"mean": 2.5,
+"std": 0.7071,
+"ci_95": [
+1.52,
+3.48
+],
+"n": 2
+},
+"emergency_packets_delivered": {
+"mean": 2,
+"std": 1.4142,
+"ci_95": [
+0.04,
+3.96
+],
+"n": 2
+},
+"emergency_pdr_percent": {
+"mean": 75.0,
+"std": 35.3553,
+"ci_95": [
+26.0,
+124.0
+],
+"n": 2
+},
+"avg_emergency_delay_s": {
+"mean": 0.0333,
+"std": 0.0471,
+"ci_95": [
+-0.032,
+0.0987
+],
+"n": 2
+},
+"routing_overhead_control_messages": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"recovery_events_count": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"avg_recovery_time_s": {
+"mean": null,
+"std": null,
+"ci_95": null,
+"n": 0
+},
+"duplicate_forward_count": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"duplicate_packet_rate_percent": {
+"mean": 0.0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"queue_overflow_count": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"avg_queue_length": {
+"mean": null,
+"std": null,
+"ci_95": null,
+"n": 0
+},
+"max_queue_length": {
+"mean": null,
+"std": null,
+"ci_95": null,
+"n": 0
+},
+"avg_queue_utilization_percent": {
+"mean": null,
+"std": null,
+"ci_95": null,
+"n": 0
+},
+"forwarding_decisions": {
+"mean": 86.5,
+"std": 24.7487,
+"ci_95": [
+52.2,
+120.8
+],
+"n": 2
+},
+"successful_forwarding_attempts": {
+"mean": 86.5,
+"std": 24.7487,
+"ci_95": [
+52.2,
+120.8
+],
+"n": 2
+},
+"failed_forwarding_attempts": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"retransmissions": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"packets_buffered_events": {
+"mean": 1.5,
+"std": 2.1213,
+"ci_95": [
+-1.44,
+4.44
+],
+"n": 2
+},
+"unique_packets_buffered": {
+"mean": 1.5,
+"std": 2.1213,
+"ci_95": [
+-1.44,
+4.44
+],
+"n": 2
+},
+"successfully_recovered_buffered_packets": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+}
+},
+"RSSI": {
+"generated_packets": {
+"mean": 21,
+"std": 4.2426,
+"ci_95": [
+15.12,
+26.88
+],
+"n": 2
+},
+"delivered_packets": {
+"mean": 14.5,
+"std": 0.7071,
+"ci_95": [
+13.52,
+15.48
+],
+"n": 2
+},
+"pdr_percent": {
+"mean": 70.8333,
+"std": 17.6777,
+"ci_95": [
+46.3333,
+95.3333
+],
+"n": 2
+},
+"avg_end_to_end_delay_s": {
+"mean": 0.2985,
+"std": 0.0072,
+"ci_95": [
+0.2884,
+0.3085
+],
+"n": 2
+},
+"avg_hop_count": {
+"mean": 6.969,
+"std": 0.1448,
+"ci_95": [
+6.7684,
+7.1697
+],
+"n": 2
+},
+"packet_loss": {
+"mean": 6.5,
+"std": 4.9497,
+"ci_95": [
+-0.36,
+13.36
+],
+"n": 2
+},
+"packet_loss_rate_percent": {
+"mean": 29.1667,
+"std": 17.6777,
+"ci_95": [
+4.6667,
+53.6667
+],
+"n": 2
+},
+"throughput_packets_per_s": {
+"mean": 0.725,
+"std": 0.0354,
+"ci_95": [
+0.676,
+0.774
+],
+"n": 2
+},
+"emergency_packets_generated": {
+"mean": 2.5,
+"std": 0.7071,
+"ci_95": [
+1.52,
+3.48
+],
+"n": 2
+},
+"emergency_packets_delivered": {
+"mean": 1.5,
+"std": 0.7071,
+"ci_95": [
+0.52,
+2.48
+],
+"n": 2
+},
+"emergency_pdr_percent": {
+"mean": 58.3333,
+"std": 11.7851,
+"ci_95": [
+42.0,
+74.6667
+],
+"n": 2
+},
+"avg_emergency_delay_s": {
+"mean": 0.15,
+"std": 0.2121,
+"ci_95": [
+-0.144,
+0.444
+],
+"n": 2
+},
+"routing_overhead_control_messages": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"recovery_events_count": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"avg_recovery_time_s": {
+"mean": null,
+"std": null,
+"ci_95": null,
+"n": 0
+},
+"duplicate_forward_count": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"duplicate_packet_rate_percent": {
+"mean": 0.0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"queue_overflow_count": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"avg_queue_length": {
+"mean": null,
+"std": null,
+"ci_95": null,
+"n": 0
+},
+"max_queue_length": {
+"mean": null,
+"std": null,
+"ci_95": null,
+"n": 0
+},
+"avg_queue_utilization_percent": {
+"mean": null,
+"std": null,
+"ci_95": null,
+"n": 0
+},
+"forwarding_decisions": {
+"mean": 141,
+"std": 21.2132,
+"ci_95": [
+111.6,
+170.4
+],
+"n": 2
+},
+"successful_forwarding_attempts": {
+"mean": 141,
+"std": 21.2132,
+"ci_95": [
+111.6,
+170.4
+],
+"n": 2
+},
+"failed_forwarding_attempts": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"retransmissions": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"packets_buffered_events": {
+"mean": 5,
+"std": 5.6569,
+"ci_95": [
+-2.84,
+12.84
+],
+"n": 2
+},
+"unique_packets_buffered": {
+"mean": 5,
+"std": 5.6569,
+"ci_95": [
+-2.84,
+12.84
+],
+"n": 2
+},
+"successfully_recovered_buffered_packets": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+}
+},
+"AODV": {
+"generated_packets": {
+"mean": 21,
+"std": 4.2426,
+"ci_95": [
+15.12,
+26.88
+],
+"n": 2
+},
+"delivered_packets": {
+"mean": 19,
+"std": 2.8284,
+"ci_95": [
+15.08,
+22.92
+],
+"n": 2
+},
+"pdr_percent": {
+"mean": 90.9722,
+"std": 4.9105,
+"ci_95": [
+84.1667,
+97.7778
+],
+"n": 2
+},
+"avg_end_to_end_delay_s": {
+"mean": 0.2043,
+"std": 0.023,
+"ci_95": [
+0.1725,
+0.2362
+],
+"n": 2
+},
+"avg_hop_count": {
+"mean": 2.0112,
+"std": 0.1505,
+"ci_95": [
+1.8026,
+2.2198
+],
+"n": 2
+},
+"packet_loss": {
+"mean": 2,
+"std": 1.4142,
+"ci_95": [
+0.04,
+3.96
+],
+"n": 2
+},
+"packet_loss_rate_percent": {
+"mean": 9.0278,
+"std": 4.9105,
+"ci_95": [
+2.2222,
+15.8333
+],
+"n": 2
+},
+"throughput_packets_per_s": {
+"mean": 0.95,
+"std": 0.1414,
+"ci_95": [
+0.754,
+1.146
+],
+"n": 2
+},
+"emergency_packets_generated": {
+"mean": 2.5,
+"std": 0.7071,
+"ci_95": [
+1.52,
+3.48
+],
+"n": 2
+},
+"emergency_packets_delivered": {
+"mean": 2,
+"std": 1.4142,
+"ci_95": [
+0.04,
+3.96
+],
+"n": 2
+},
+"emergency_pdr_percent": {
+"mean": 75.0,
+"std": 35.3553,
+"ci_95": [
+26.0,
+124.0
+],
+"n": 2
+},
+"avg_emergency_delay_s": {
+"mean": 0.15,
+"std": 0.0707,
+"ci_95": [
+0.052,
+0.248
+],
+"n": 2
+},
+"routing_overhead_control_messages": {
+"mean": 267.5,
+"std": 33.234,
+"ci_95": [
+221.44,
+313.56
+],
+"n": 2
+},
+"recovery_events_count": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"avg_recovery_time_s": {
+"mean": null,
+"std": null,
+"ci_95": null,
+"n": 0
+},
+"duplicate_forward_count": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"duplicate_packet_rate_percent": {
+"mean": 0.0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"queue_overflow_count": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"avg_queue_length": {
+"mean": null,
+"std": null,
+"ci_95": null,
+"n": 0
+},
+"max_queue_length": {
+"mean": null,
+"std": null,
+"ci_95": null,
+"n": 0
+},
+"avg_queue_utilization_percent": {
+"mean": null,
+"std": null,
+"ci_95": null,
+"n": 0
+},
+"forwarding_decisions": {
+"mean": 38,
+"std": 2.8284,
+"ci_95": [
+34.08,
+41.92
+],
+"n": 2
+},
+"successful_forwarding_attempts": {
+"mean": 38,
+"std": 2.8284,
+"ci_95": [
+34.08,
+41.92
+],
+"n": 2
+},
+"failed_forwarding_attempts": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"retransmissions": {
+"mean": 0,
+"std": 0.0,
+"ci_95": [
+0.0,
+0.0
+],
+"n": 2
+},
+"packets_buffered_events": {
+"mean": 17,
+"std": 2.8284,
+"ci_95": [
+13.08,
+20.92
+],
+"n": 2
+},
+"unique_packets_buffered": {
+"mean": 17,
+"std": 2.8284,
+"ci_95": [
+13.08,
+20.92
+],
+"n": 2
+},
+"successfully_recovered_buffered_packets": {
+"mean": 15,
+"std": 1.4142,
+"ci_95": [
+13.04,
+16.96
+],
+"n": 2
+}
+}
+}

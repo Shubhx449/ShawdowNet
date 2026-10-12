@@ -1,0 +1,352 @@
+{
+"results": {
+"AEAR": [
+{
+"algorithm": "AEAR",
+"run_number": 1,
+"seed": 8,
+"event_count": 972,
+"metrics": {
+"generated_packets": 24,
+"delivered_packets": 20,
+"pdr_percent": 83.3333,
+"avg_end_to_end_delay_s": 0.1575,
+"avg_hop_count": 4.15,
+"packet_loss": 4,
+"packet_loss_rate_percent": 16.6667,
+"throughput_packets_per_s": 1.0,
+"emergency_packets_generated": 2,
+"emergency_packets_delivered": 1,
+"emergency_pdr_percent": 50.0,
+"avg_emergency_delay_s": 0.0,
+"pdr_by_priority": {
+"NORMAL": 83.3333,
+"IMPORTANT": 100.0,
+"EMERGENCY": 50.0
+},
+"avg_delay_by_priority": {
+"NORMAL": 0.1767,
+"IMPORTANT": 0.125,
+"EMERGENCY": 0.0
+},
+"routing_overhead_control_messages": 0,
+"recovery_events_count": 0,
+"avg_recovery_time_s": null,
+"duplicate_forward_count": 0,
+"duplicate_packet_rate_percent": 0.0,
+"queue_overflow_count": 0,
+"avg_queue_length": null,
+"max_queue_length": null,
+"avg_queue_utilization_percent": null,
+"forwarding_decisions": 104,
+"successful_forwarding_attempts": 104,
+"failed_forwarding_attempts": 0,
+"retransmissions": 0,
+"packets_buffered_events": 3,
+"unique_packets_buffered": 3,
+"successfully_recovered_buffered_packets": 0,
+"notes": {
+"recovery_time": "No completed failure/recovery cycle found in this run -- either nothing failed, or nothing failed AND recovered within the simulated duration.",
+"duplicate_packet_rate": "0% is expected with the current routing engines -- loop prevention via visited-node tracking rules out a data packet ever being sent over the same link twice.",
+"queue_length_metrics": "No QUEUE_SNAPSHOT samples found -- attach a QueueSampler to the engine before running to enable Queue Utilization / Average / Maximum Length. Queue Overflow count below is accurate regardless (it has its own event, independent of sampling).",
+"retransmissions": "0 is expected with the current routing engines -- none of AEAR/RSSI/AODV currently model a probabilistic per-hop transmission failure that would trigger a retry, so this reflects the actual simulation rather than a missing data source."
+}
+},
+"validation": {
+"is_valid": true,
+"summary": "No issues found.",
+"issues": []
+}
+},
+{
+"algorithm": "AEAR",
+"run_number": 2,
+"seed": 9,
+"event_count": 576,
+"metrics": {
+"generated_packets": 18,
+"delivered_packets": 18,
+"pdr_percent": 100.0,
+"avg_end_to_end_delay_s": 0.1417,
+"avg_hop_count": 3.8333,
+"packet_loss": 0,
+"packet_loss_rate_percent": 0.0,
+"throughput_packets_per_s": 0.9,
+"emergency_packets_generated": 3,
+"emergency_packets_delivered": 3,
+"emergency_pdr_percent": 100.0,
+"avg_emergency_delay_s": 0.0667,
+"pdr_by_priority": {
+"NORMAL": 100.0,
+"IMPORTANT": 100.0,
+"EMERGENCY": 100.0
+},
+"avg_delay_by_priority": {
+"NORMAL": 0.2167,
+"IMPORTANT": 0.0667,
+"EMERGENCY": 0.0667
+},
+"routing_overhead_control_messages": 0,
+"recovery_events_count": 0,
+"avg_recovery_time_s": null,
+"duplicate_forward_count": 0,
+"duplicate_packet_rate_percent": 0.0,
+"queue_overflow_count": 0,
+"avg_queue_length": null,
+"max_queue_length": null,
+"avg_queue_utilization_percent": null,
+"forwarding_decisions": 69,
+"successful_forwarding_attempts": 69,
+"failed_forwarding_attempts": 0,
+"retransmissions": 0,
+"packets_buffered_events": 0,
+"unique_packets_buffered": 0,
+"successfully_recovered_buffered_packets": 0,
+"notes": {
+"recovery_time": "No completed failure/recovery cycle found in this run -- either nothing failed, or nothing failed AND recovered within the simulated duration.",
+"duplicate_packet_rate": "0% is expected with the current routing engines -- loop prevention via visited-node tracking rules out a data packet ever being sent over the same link twice.",
+"queue_length_metrics": "No QUEUE_SNAPSHOT samples found -- attach a QueueSampler to the engine before running to enable Queue Utilization / Average / Maximum Length. Queue Overflow count below is accurate regardless (it has its own event, independent of sampling).",
+"retransmissions": "0 is expected with the current routing engines -- none of AEAR/RSSI/AODV currently model a probabilistic per-hop transmission failure that would trigger a retry, so this reflects the actual simulation rather than a missing data source."
+}
+},
+"validation": {
+"is_valid": true,
+"summary": "No issues found.",
+"issues": []
+}
+}
+],
+"AODV": [
+{
+"algorithm": "AODV",
+"run_number": 1,
+"seed": 8,
+"event_count": 1907,
+"metrics": {
+"generated_packets": 24,
+"delivered_packets": 21,
+"pdr_percent": 87.5,
+"avg_end_to_end_delay_s": 0.1881,
+"avg_hop_count": 1.9048,
+"packet_loss": 3,
+"packet_loss_rate_percent": 12.5,
+"throughput_packets_per_s": 1.05,
+"emergency_packets_generated": 2,
+"emergency_packets_delivered": 1,
+"emergency_pdr_percent": 50.0,
+"avg_emergency_delay_s": 0.1,
+"pdr_by_priority": {
+"NORMAL": 88.8889,
+"IMPORTANT": 100.0,
+"EMERGENCY": 50.0
+},
+"avg_delay_by_priority": {
+"NORMAL": 0.2125,
+"IMPORTANT": 0.1125,
+"EMERGENCY": 0.1
+},
+"routing_overhead_control_messages": 291,
+"recovery_events_count": 0,
+"avg_recovery_time_s": null,
+"duplicate_forward_count": 0,
+"duplicate_packet_rate_percent": 0.0,
+"queue_overflow_count": 0,
+"avg_queue_length": null,
+"max_queue_length": null,
+"avg_queue_utilization_percent": null,
+"forwarding_decisions": 40,
+"successful_forwarding_attempts": 40,
+"failed_forwarding_attempts": 0,
+"retransmissions": 0,
+"packets_buffered_events": 19,
+"unique_packets_buffered": 19,
+"successfully_recovered_buffered_packets": 16,
+"notes": {
+"recovery_time": "No completed failure/recovery cycle found in this run -- either nothing failed, or nothing failed AND recovered within the simulated duration.",
+"duplicate_packet_rate": "0% is expected with the current routing engines -- loop prevention via visited-node tracking rules out a data packet ever being sent over the same link twice.",
+"queue_length_metrics": "No QUEUE_SNAPSHOT samples found -- attach a QueueSampler to the engine before running to enable Queue Utilization / Average / Maximum Length. Queue Overflow count below is accurate regardless (it has its own event, independent of sampling).",
+"retransmissions": "0 is expected with the current routing engines -- none of AEAR/RSSI/AODV currently model a probabilistic per-hop transmission failure that would trigger a retry, so this reflects the actual simulation rather than a missing data source."
+}
+},
+"validation": {
+"is_valid": true,
+"summary": "No issues found.",
+"issues": []
+}
+},
+{
+"algorithm": "AODV",
+"run_number": 2,
+"seed": 9,
+"event_count": 1272,
+"metrics": {
+"generated_packets": 18,
+"delivered_packets": 17,
+"pdr_percent": 94.4444,
+"avg_end_to_end_delay_s": 0.2206,
+"avg_hop_count": 2.1176,
+"packet_loss": 1,
+"packet_loss_rate_percent": 5.5556,
+"throughput_packets_per_s": 0.85,
+"emergency_packets_generated": 3,
+"emergency_packets_delivered": 3,
+"emergency_pdr_percent": 100.0,
+"avg_emergency_delay_s": 0.2,
+"pdr_by_priority": {
+"NORMAL": 88.8889,
+"IMPORTANT": 100.0,
+"EMERGENCY": 100.0
+},
+"avg_delay_by_priority": {
+"NORMAL": 0.2438,
+"IMPORTANT": 0.2,
+"EMERGENCY": 0.2
+},
+"routing_overhead_control_messages": 244,
+"recovery_events_count": 0,
+"avg_recovery_time_s": null,
+"duplicate_forward_count": 0,
+"duplicate_packet_rate_percent": 0.0,
+"queue_overflow_count": 0,
+"avg_queue_length": null,
+"max_queue_length": null,
+"avg_queue_utilization_percent": null,
+"forwarding_decisions": 36,
+"successful_forwarding_attempts": 36,
+"failed_forwarding_attempts": 0,
+"retransmissions": 0,
+"packets_buffered_events": 15,
+"unique_packets_buffered": 15,
+"successfully_recovered_buffered_packets": 14,
+"notes": {
+"recovery_time": "No completed failure/recovery cycle found in this run -- either nothing failed, or nothing failed AND recovered within the simulated duration.",
+"duplicate_packet_rate": "0% is expected with the current routing engines -- loop prevention via visited-node tracking rules out a data packet ever being sent over the same link twice.",
+"queue_length_metrics": "No QUEUE_SNAPSHOT samples found -- attach a QueueSampler to the engine before running to enable Queue Utilization / Average / Maximum Length. Queue Overflow count below is accurate regardless (it has its own event, independent of sampling).",
+"retransmissions": "0 is expected with the current routing engines -- none of AEAR/RSSI/AODV currently model a probabilistic per-hop transmission failure that would trigger a retry, so this reflects the actual simulation rather than a missing data source."
+}
+},
+"validation": {
+"is_valid": true,
+"summary": "No issues found.",
+"issues": []
+}
+}
+],
+"RSSI": [
+{
+"algorithm": "RSSI",
+"run_number": 1,
+"seed": 8,
+"event_count": 1368,
+"metrics": {
+"generated_packets": 24,
+"delivered_packets": 14,
+"pdr_percent": 58.3333,
+"avg_end_to_end_delay_s": 0.3036,
+"avg_hop_count": 7.0714,
+"packet_loss": 10,
+"packet_loss_rate_percent": 41.6667,
+"throughput_packets_per_s": 0.7,
+"emergency_packets_generated": 2,
+"emergency_packets_delivered": 1,
+"emergency_pdr_percent": 50.0,
+"avg_emergency_delay_s": 0.0,
+"pdr_by_priority": {
+"NORMAL": 72.2222,
+"IMPORTANT": 0.0,
+"EMERGENCY": 50.0
+},
+"avg_delay_by_priority": {
+"NORMAL": 0.3269,
+"IMPORTANT": null,
+"EMERGENCY": 0.0
+},
+"routing_overhead_control_messages": 0,
+"recovery_events_count": 0,
+"avg_recovery_time_s": null,
+"duplicate_forward_count": 0,
+"duplicate_packet_rate_percent": 0.0,
+"queue_overflow_count": 0,
+"avg_queue_length": null,
+"max_queue_length": null,
+"avg_queue_utilization_percent": null,
+"forwarding_decisions": 156,
+"successful_forwarding_attempts": 156,
+"failed_forwarding_attempts": 0,
+"retransmissions": 0,
+"packets_buffered_events": 9,
+"unique_packets_buffered": 9,
+"successfully_recovered_buffered_packets": 0,
+"notes": {
+"recovery_time": "No completed failure/recovery cycle found in this run -- either nothing failed, or nothing failed AND recovered within the simulated duration.",
+"duplicate_packet_rate": "0% is expected with the current routing engines -- loop prevention via visited-node tracking rules out a data packet ever being sent over the same link twice.",
+"queue_length_metrics": "No QUEUE_SNAPSHOT samples found -- attach a QueueSampler to the engine before running to enable Queue Utilization / Average / Maximum Length. Queue Overflow count below is accurate regardless (it has its own event, independent of sampling).",
+"retransmissions": "0 is expected with the current routing engines -- none of AEAR/RSSI/AODV currently model a probabilistic per-hop transmission failure that would trigger a retry, so this reflects the actual simulation rather than a missing data source."
+}
+},
+"validation": {
+"is_valid": true,
+"summary": "No issues found.",
+"issues": []
+}
+},
+{
+"algorithm": "RSSI",
+"run_number": 2,
+"seed": 9,
+"event_count": 930,
+"metrics": {
+"generated_packets": 18,
+"delivered_packets": 15,
+"pdr_percent": 83.3333,
+"avg_end_to_end_delay_s": 0.2933,
+"avg_hop_count": 6.8667,
+"packet_loss": 3,
+"packet_loss_rate_percent": 16.6667,
+"throughput_packets_per_s": 0.75,
+"emergency_packets_generated": 3,
+"emergency_packets_delivered": 2,
+"emergency_pdr_percent": 66.6667,
+"avg_emergency_delay_s": 0.3,
+"pdr_by_priority": {
+"NORMAL": 88.8889,
+"IMPORTANT": 83.3333,
+"EMERGENCY": 66.6667
+},
+"avg_delay_by_priority": {
+"NORMAL": 0.3438,
+"IMPORTANT": 0.21,
+"EMERGENCY": 0.3
+},
+"routing_overhead_control_messages": 0,
+"recovery_events_count": 0,
+"avg_recovery_time_s": null,
+"duplicate_forward_count": 0,
+"duplicate_packet_rate_percent": 0.0,
+"queue_overflow_count": 0,
+"avg_queue_length": null,
+"max_queue_length": null,
+"avg_queue_utilization_percent": null,
+"forwarding_decisions": 126,
+"successful_forwarding_attempts": 126,
+"failed_forwarding_attempts": 0,
+"retransmissions": 0,
+"packets_buffered_events": 1,
+"unique_packets_buffered": 1,
+"successfully_recovered_buffered_packets": 0,
+"notes": {
+"recovery_time": "No completed failure/recovery cycle found in this run -- either nothing failed, or nothing failed AND recovered within the simulated duration.",
+"duplicate_packet_rate": "0% is expected with the current routing engines -- loop prevention via visited-node tracking rules out a data packet ever being sent over the same link twice.",
+"queue_length_metrics": "No QUEUE_SNAPSHOT samples found -- attach a QueueSampler to the engine before running to enable Queue Utilization / Average / Maximum Length. Queue Overflow count below is accurate regardless (it has its own event, independent of sampling).",
+"retransmissions": "0 is expected with the current routing engines -- none of AEAR/RSSI/AODV currently model a probabilistic per-hop transmission failure that would trigger a retry, so this reflects the actual simulation rather than a missing data source."
+}
+},
+"validation": {
+"is_valid": true,
+"summary": "No issues found.",
+"issues": []
+}
+}
+]
+}
+}

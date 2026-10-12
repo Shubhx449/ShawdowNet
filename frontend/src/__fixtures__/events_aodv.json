@@ -1,0 +1,1433 @@
+[
+{
+"algorithm": null,
+"event_id": 1,
+"event_type": "PACKET_GENERATED",
+"metadata": {
+"destination": "N9",
+"packet_type": "EMERGENCY",
+"priority": 2
+},
+"node_id": "N1",
+"packet_id": "P001",
+"timestamp": 0.0
+},
+{
+"algorithm": "AODV",
+"event_id": 2,
+"event_type": "PACKET_BUFFERED",
+"metadata": {
+"reason": "AODV route discovery in progress"
+},
+"node_id": "N1",
+"packet_id": "P001",
+"timestamp": 0.0
+},
+{
+"algorithm": "AODV",
+"event_id": 3,
+"event_type": "RREQ_SENT",
+"metadata": {
+"destination": "N9",
+"hop_count": 0,
+"originator": "N1",
+"rreq_id": 1
+},
+"node_id": "N1",
+"packet_id": null,
+"timestamp": 0.0
+},
+{
+"algorithm": "AODV",
+"event_id": 4,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N1",
+"rreq_id": 1
+},
+"node_id": "N2",
+"packet_id": null,
+"timestamp": 0.05
+},
+{
+"algorithm": "AODV",
+"event_id": 5,
+"event_type": "RREQ_SENT",
+"metadata": {
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"rreq_id": 1
+},
+"node_id": "N2",
+"packet_id": null,
+"timestamp": 0.05
+},
+{
+"algorithm": "AODV",
+"event_id": 6,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N1",
+"rreq_id": 1
+},
+"node_id": "N3",
+"packet_id": null,
+"timestamp": 0.05
+},
+{
+"algorithm": "AODV",
+"event_id": 7,
+"event_type": "RREQ_SENT",
+"metadata": {
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"rreq_id": 1
+},
+"node_id": "N3",
+"packet_id": null,
+"timestamp": 0.05
+},
+{
+"algorithm": "AODV",
+"event_id": 8,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N1",
+"rreq_id": 1
+},
+"node_id": "N5",
+"packet_id": null,
+"timestamp": 0.05
+},
+{
+"algorithm": "AODV",
+"event_id": 9,
+"event_type": "RREQ_SENT",
+"metadata": {
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"rreq_id": 1
+},
+"node_id": "N5",
+"packet_id": null,
+"timestamp": 0.05
+},
+{
+"algorithm": "AODV",
+"event_id": 10,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N1",
+"rreq_id": 1
+},
+"node_id": "N6",
+"packet_id": null,
+"timestamp": 0.05
+},
+{
+"algorithm": "AODV",
+"event_id": 11,
+"event_type": "RREQ_SENT",
+"metadata": {
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"rreq_id": 1
+},
+"node_id": "N6",
+"packet_id": null,
+"timestamp": 0.05
+},
+{
+"algorithm": "AODV",
+"event_id": 12,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N1",
+"rreq_id": 1
+},
+"node_id": "N8",
+"packet_id": null,
+"timestamp": 0.05
+},
+{
+"algorithm": "AODV",
+"event_id": 13,
+"event_type": "RREQ_SENT",
+"metadata": {
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"rreq_id": 1
+},
+"node_id": "N8",
+"packet_id": null,
+"timestamp": 0.05
+},
+{
+"algorithm": "AODV",
+"event_id": 14,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N1",
+"rreq_id": 1
+},
+"node_id": "N10",
+"packet_id": null,
+"timestamp": 0.05
+},
+{
+"algorithm": "AODV",
+"event_id": 15,
+"event_type": "RREQ_SENT",
+"metadata": {
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"rreq_id": 1
+},
+"node_id": "N10",
+"packet_id": null,
+"timestamp": 0.05
+},
+{
+"algorithm": "AODV",
+"event_id": 16,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N1",
+"rreq_id": 1
+},
+"node_id": "N13",
+"packet_id": null,
+"timestamp": 0.05
+},
+{
+"algorithm": "AODV",
+"event_id": 17,
+"event_type": "RREQ_SENT",
+"metadata": {
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"rreq_id": 1
+},
+"node_id": "N13",
+"packet_id": null,
+"timestamp": 0.05
+},
+{
+"algorithm": "AODV",
+"event_id": 18,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N2",
+"rreq_id": 1
+},
+"node_id": "N3",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 19,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N2",
+"rreq_id": 1
+},
+"node_id": "N10",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 20,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N2",
+"rreq_id": 1
+},
+"node_id": "N11",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 21,
+"event_type": "RREQ_SENT",
+"metadata": {
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"rreq_id": 1
+},
+"node_id": "N11",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 22,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N2",
+"rreq_id": 1
+},
+"node_id": "N12",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 23,
+"event_type": "RREQ_SENT",
+"metadata": {
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"rreq_id": 1
+},
+"node_id": "N12",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 24,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N3",
+"rreq_id": 1
+},
+"node_id": "N2",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 25,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N3",
+"rreq_id": 1
+},
+"node_id": "N10",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 26,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N3",
+"rreq_id": 1
+},
+"node_id": "N12",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 27,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N3",
+"rreq_id": 1
+},
+"node_id": "N15",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 28,
+"event_type": "RREQ_SENT",
+"metadata": {
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"rreq_id": 1
+},
+"node_id": "N15",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 29,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N5",
+"rreq_id": 1
+},
+"node_id": "N4",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 30,
+"event_type": "RREQ_SENT",
+"metadata": {
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"rreq_id": 1
+},
+"node_id": "N4",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 31,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N5",
+"rreq_id": 1
+},
+"node_id": "N6",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 32,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N5",
+"rreq_id": 1
+},
+"node_id": "N8",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 33,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N5",
+"rreq_id": 1
+},
+"node_id": "N13",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 34,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N5",
+"rreq_id": 1
+},
+"node_id": "N15",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 35,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N6",
+"rreq_id": 1
+},
+"node_id": "N4",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 36,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N6",
+"rreq_id": 1
+},
+"node_id": "N5",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 37,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N6",
+"rreq_id": 1
+},
+"node_id": "N8",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 38,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N6",
+"rreq_id": 1
+},
+"node_id": "N13",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 39,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N8",
+"rreq_id": 1
+},
+"node_id": "N4",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 40,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N8",
+"rreq_id": 1
+},
+"node_id": "N5",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 41,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N8",
+"rreq_id": 1
+},
+"node_id": "N6",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 42,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N8",
+"rreq_id": 1
+},
+"node_id": "N13",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 43,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N8",
+"rreq_id": 1
+},
+"node_id": "N15",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 44,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N10",
+"rreq_id": 1
+},
+"node_id": "N2",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 45,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N10",
+"rreq_id": 1
+},
+"node_id": "N3",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 46,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N10",
+"rreq_id": 1
+},
+"node_id": "N12",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 47,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N13",
+"rreq_id": 1
+},
+"node_id": "N4",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 48,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N13",
+"rreq_id": 1
+},
+"node_id": "N5",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 49,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N13",
+"rreq_id": 1
+},
+"node_id": "N6",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 50,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N13",
+"rreq_id": 1
+},
+"node_id": "N8",
+"packet_id": null,
+"timestamp": 0.1
+},
+{
+"algorithm": "AODV",
+"event_id": 51,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N11",
+"rreq_id": 1
+},
+"node_id": "N12",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 52,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N12",
+"rreq_id": 1
+},
+"node_id": "N3",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 53,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N12",
+"rreq_id": 1
+},
+"node_id": "N10",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 54,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N12",
+"rreq_id": 1
+},
+"node_id": "N11",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 55,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N15",
+"rreq_id": 1
+},
+"node_id": "N4",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 56,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N15",
+"rreq_id": 1
+},
+"node_id": "N5",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 57,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N15",
+"rreq_id": 1
+},
+"node_id": "N7",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 58,
+"event_type": "RREQ_SENT",
+"metadata": {
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"rreq_id": 1
+},
+"node_id": "N7",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 59,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N15",
+"rreq_id": 1
+},
+"node_id": "N8",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 60,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N15",
+"rreq_id": 1
+},
+"node_id": "N14",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 61,
+"event_type": "RREQ_SENT",
+"metadata": {
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"rreq_id": 1
+},
+"node_id": "N14",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 62,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N4",
+"rreq_id": 1
+},
+"node_id": "N6",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 63,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N4",
+"rreq_id": 1
+},
+"node_id": "N8",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 64,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N4",
+"rreq_id": 1
+},
+"node_id": "N13",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 65,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N4",
+"rreq_id": 1
+},
+"node_id": "N14",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 66,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N4",
+"rreq_id": 1
+},
+"node_id": "N15",
+"packet_id": null,
+"timestamp": 0.15000000000000002
+},
+{
+"algorithm": "AODV",
+"event_id": 67,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 4,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N7",
+"rreq_id": 1
+},
+"node_id": "N9",
+"packet_id": null,
+"timestamp": 0.2
+},
+{
+"algorithm": "AODV",
+"event_id": 68,
+"event_type": "RREP_SENT",
+"metadata": {
+"dest_seq": 1,
+"destination": "N9",
+"hop_count": 0,
+"originator": "N1"
+},
+"node_id": "N9",
+"packet_id": null,
+"timestamp": 0.2
+},
+{
+"algorithm": "AODV",
+"event_id": 69,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 4,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N7",
+"rreq_id": 1
+},
+"node_id": "N14",
+"packet_id": null,
+"timestamp": 0.2
+},
+{
+"algorithm": "AODV",
+"event_id": 70,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 4,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N14",
+"rreq_id": 1
+},
+"node_id": "N4",
+"packet_id": null,
+"timestamp": 0.2
+},
+{
+"algorithm": "AODV",
+"event_id": 71,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 4,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N14",
+"rreq_id": 1
+},
+"node_id": "N7",
+"packet_id": null,
+"timestamp": 0.2
+},
+{
+"algorithm": "AODV",
+"event_id": 72,
+"event_type": "RREQ_RECEIVED",
+"metadata": {
+"dest_seq_known": null,
+"destination": "N9",
+"hop_count": 4,
+"originator": "N1",
+"originator_seq": 1,
+"previous_hop": "N14",
+"rreq_id": 1
+},
+"node_id": "N9",
+"packet_id": null,
+"timestamp": 0.2
+},
+{
+"algorithm": "AODV",
+"event_id": 73,
+"event_type": "RREP_RECEIVED",
+"metadata": {
+"dest_seq": 1,
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1",
+"via": "N9"
+},
+"node_id": "N7",
+"packet_id": null,
+"timestamp": 0.25
+},
+{
+"algorithm": "AODV",
+"event_id": 74,
+"event_type": "RREP_SENT",
+"metadata": {
+"dest_seq": 1,
+"destination": "N9",
+"hop_count": 1,
+"originator": "N1"
+},
+"node_id": "N7",
+"packet_id": null,
+"timestamp": 0.25
+},
+{
+"algorithm": "AODV",
+"event_id": 75,
+"event_type": "RREP_RECEIVED",
+"metadata": {
+"dest_seq": 1,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1",
+"via": "N7"
+},
+"node_id": "N15",
+"packet_id": null,
+"timestamp": 0.3
+},
+{
+"algorithm": "AODV",
+"event_id": 76,
+"event_type": "RREP_SENT",
+"metadata": {
+"dest_seq": 1,
+"destination": "N9",
+"hop_count": 2,
+"originator": "N1"
+},
+"node_id": "N15",
+"packet_id": null,
+"timestamp": 0.3
+},
+{
+"algorithm": "AODV",
+"event_id": 77,
+"event_type": "RREP_RECEIVED",
+"metadata": {
+"dest_seq": 1,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1",
+"via": "N15"
+},
+"node_id": "N3",
+"packet_id": null,
+"timestamp": 0.35
+},
+{
+"algorithm": "AODV",
+"event_id": 78,
+"event_type": "RREP_SENT",
+"metadata": {
+"dest_seq": 1,
+"destination": "N9",
+"hop_count": 3,
+"originator": "N1"
+},
+"node_id": "N3",
+"packet_id": null,
+"timestamp": 0.35
+},
+{
+"algorithm": "AODV",
+"event_id": 79,
+"event_type": "RREP_RECEIVED",
+"metadata": {
+"dest_seq": 1,
+"destination": "N9",
+"hop_count": 4,
+"originator": "N1",
+"via": "N3"
+},
+"node_id": "N1",
+"packet_id": null,
+"timestamp": 0.39999999999999997
+},
+{
+"algorithm": "AODV",
+"event_id": 80,
+"event_type": "FORWARDING_DECISION",
+"metadata": {
+"dest_seq": 1,
+"hop_count": 4,
+"selected": "N3",
+"source": "ROUTING_TABLE"
+},
+"node_id": "N1",
+"packet_id": "P001",
+"timestamp": 0.39999999999999997
+},
+{
+"algorithm": "AODV",
+"event_id": 81,
+"event_type": "PACKET_FORWARDED",
+"metadata": {
+"hop_count": 1,
+"to_node": "N3",
+"ttl_remaining": 11
+},
+"node_id": "N1",
+"packet_id": "P001",
+"timestamp": 0.39999999999999997
+},
+{
+"algorithm": "AODV",
+"event_id": 82,
+"event_type": "PACKET_RECEIVED",
+"metadata": {},
+"node_id": "N3",
+"packet_id": "P001",
+"timestamp": 0.44999999999999996
+},
+{
+"algorithm": "AODV",
+"event_id": 83,
+"event_type": "FORWARDING_DECISION",
+"metadata": {
+"dest_seq": 1,
+"hop_count": 3,
+"selected": "N15",
+"source": "ROUTING_TABLE"
+},
+"node_id": "N3",
+"packet_id": "P001",
+"timestamp": 0.44999999999999996
+},
+{
+"algorithm": "AODV",
+"event_id": 84,
+"event_type": "PACKET_FORWARDED",
+"metadata": {
+"hop_count": 2,
+"to_node": "N15",
+"ttl_remaining": 10
+},
+"node_id": "N3",
+"packet_id": "P001",
+"timestamp": 0.44999999999999996
+},
+{
+"algorithm": "AODV",
+"event_id": 85,
+"event_type": "PACKET_RECEIVED",
+"metadata": {},
+"node_id": "N15",
+"packet_id": "P001",
+"timestamp": 0.49999999999999994
+},
+{
+"algorithm": "AODV",
+"event_id": 86,
+"event_type": "FORWARDING_DECISION",
+"metadata": {
+"dest_seq": 1,
+"hop_count": 2,
+"selected": "N7",
+"source": "ROUTING_TABLE"
+},
+"node_id": "N15",
+"packet_id": "P001",
+"timestamp": 0.49999999999999994
+},
+{
+"algorithm": "AODV",
+"event_id": 87,
+"event_type": "PACKET_FORWARDED",
+"metadata": {
+"hop_count": 3,
+"to_node": "N7",
+"ttl_remaining": 9
+},
+"node_id": "N15",
+"packet_id": "P001",
+"timestamp": 0.49999999999999994
+},
+{
+"algorithm": "AODV",
+"event_id": 88,
+"event_type": "PACKET_RECEIVED",
+"metadata": {},
+"node_id": "N7",
+"packet_id": "P001",
+"timestamp": 0.5499999999999999
+},
+{
+"algorithm": "AODV",
+"event_id": 89,
+"event_type": "FORWARDING_DECISION",
+"metadata": {
+"dest_seq": 1,
+"hop_count": 1,
+"selected": "N9",
+"source": "ROUTING_TABLE"
+},
+"node_id": "N7",
+"packet_id": "P001",
+"timestamp": 0.5499999999999999
+},
+{
+"algorithm": "AODV",
+"event_id": 90,
+"event_type": "PACKET_FORWARDED",
+"metadata": {
+"hop_count": 4,
+"to_node": "N9",
+"ttl_remaining": 8
+},
+"node_id": "N7",
+"packet_id": "P001",
+"timestamp": 0.5499999999999999
+},
+{
+"algorithm": "AODV",
+"event_id": 91,
+"event_type": "PACKET_DELIVERED",
+"metadata": {
+"end_to_end_delay": 0.5499999999999999,
+"hop_count": 4
+},
+"node_id": "N9",
+"packet_id": "P001",
+"timestamp": 0.5499999999999999
+},
+{
+"algorithm": "AODV",
+"event_id": 92,
+"event_type": "ROUTE_CHANGED",
+"metadata": {
+"destination": "N9",
+"purpose": "route_discovery_timeout",
+"rreq_id": 1
+},
+"node_id": "N1",
+"packet_id": null,
+"timestamp": 2.0
+}
+]

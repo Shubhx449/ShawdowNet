@@ -1,0 +1,30 @@
+{
+"name": "Unnamed Scenario",
+"num_nodes": 30,
+"width_m": 1000.0,
+"height_m": 1000.0,
+"communication_range_m": 430.0,
+"queue_capacity": 30,
+"ttl": 12,
+"max_retransmissions": 3,
+"simulation_duration_s": 180.0,
+"traffic_rate_pps": 1.2,
+"normal_ratio": 0.7,
+"important_ratio": 0.2,
+"emergency_ratio": 0.1,
+"source_node": null,
+"destination_node": null,
+"emergency_burst_count": 0,
+"emergency_burst_start_s": 0.0,
+"emergency_burst_end_s": 0.0,
+"failure_events": [],
+"algorithms": [
+"AEAR",
+"RSSI",
+"AODV"
+],
+"num_runs": 10,
+"base_seed": 12345,
+"aear_weights": null,
+"queue_sample_interval_s": null
+}

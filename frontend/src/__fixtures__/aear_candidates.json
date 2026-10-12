@@ -1,0 +1,8786 @@
+[
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2381,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.95,
+"score": 0.5452,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-NORMAL-P001-N1",
+"hop_efficiency": 1.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -78.57,
+"score": 1.0,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N11",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P001-N1",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5826,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -88.09,
+"score": 0.533,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N17",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P001-N1",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -101.37,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.3791,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.49,
+"score": 0.7516,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.3928,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.2,
+"score": 0.7571,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.8991,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.56,
+"score": 0.6597,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -106.45,
+"score": 0.6,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.6428,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.95,
+"score": 0.8571,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.593,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.99,
+"score": 0.5372,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -85.44,
+"score": 0.7,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.9225,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.07,
+"score": 0.669,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N2",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P003-N7",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.7036,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.97,
+"score": 0.8814,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -82.36,
+"score": 0.7,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -101.29,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P003-N7",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.4312,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.12,
+"score": 0.7725,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N2",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4634,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.93,
+"score": 0.6354,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.207,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.91,
+"score": 0.5328,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -82.61,
+"score": 0.85,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.12,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.9412,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -83.52,
+"score": 0.8265,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2819,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.75,
+"score": 0.5627,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-NORMAL-P002-N19",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.5142,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.14,
+"score": 0.8057,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5906,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -88.96,
+"score": 0.5362,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.493,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.47,
+"score": 0.4972,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7701,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.17,
+"score": 0.758,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.694,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.35,
+"score": 0.5776,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1383,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.38,
+"score": 0.5053,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6388,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.81,
+"score": 0.7055,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P003-N2",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5133,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.71,
+"score": 0.5053,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P003-N2",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.6385,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.82,
+"score": 0.5554,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-NORMAL-P003-N2",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0958,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -100.36,
+"score": 0.6383,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5038,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.93,
+"score": 0.6515,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -79.46,
+"score": 0.85,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P003-N2",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4566,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.02,
+"score": 0.4827,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -102.58,
+"score": 0.45,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N2",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N6",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4947,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.81,
+"score": 0.6479,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N6",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.3538,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.33,
+"score": 0.5915,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N6",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1235,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.08,
+"score": 0.4994,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N6",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.9398,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -76.69,
+"score": 0.8259,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N6",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1698,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.93,
+"score": 0.5179,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-NORMAL-P002-N6",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.333,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.85,
+"score": 0.7332,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P002-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -100.17,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N6",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -75.18,
+"score": 0.85,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P002-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2286,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.46,
+"score": 0.3914,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P003-N20",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.95,
+"score": 0.85,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P003-N20",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6276,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.85,
+"score": 0.7011,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P003-N20",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.7621,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.08,
+"score": 0.6048,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P003-N20",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.7475,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.27,
+"score": 0.599,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-NORMAL-P003-N20",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.6729,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.25,
+"score": 0.8691,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P003-N20",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5769,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.52,
+"score": 0.6807,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P003-N20",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1454,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.2,
+"score": 0.3581,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P003-N20",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7572,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.14,
+"score": 0.7529,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P003-N20",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -100.11,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N2",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2775,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.02,
+"score": 0.561,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -101.48,
+"score": 0.45,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -67.4,
+"score": 0.85,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-NORMAL-P002-N24",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0401,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -100.11,
+"score": 0.6161,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P002-N24",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3025,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.17,
+"score": 0.421,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P002-N24",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3864,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -88.31,
+"score": 0.4546,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N2",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N12",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.82,
+"score": 0.85,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N7",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N12",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.0229,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -101.29,
+"score": 0.4592,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-NORMAL-P002-N12",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.3289,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.07,
+"score": 0.5816,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-NORMAL-P002-N12",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.8222,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.27,
+"score": 0.9289,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P002-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -101.6,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-NORMAL-P002-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0965,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -100.27,
+"score": 0.3386,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2381,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.95,
+"score": 0.5583,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-IMPORTANT-P001-N1",
+"hop_efficiency": 1.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -78.57,
+"score": 1.0,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N11",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P001-N1",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5826,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -88.09,
+"score": 0.5039,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N17",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P001-N1",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -101.37,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.3791,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.49,
+"score": 0.7827,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.3928,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.2,
+"score": 0.7875,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.8991,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.56,
+"score": 0.6147,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -106.45,
+"score": 0.65,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.6428,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.95,
+"score": 0.875,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.593,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.99,
+"score": 0.5075,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -85.44,
+"score": 0.65,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.9225,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.07,
+"score": 0.6229,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N2",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P003-N7",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.7036,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.97,
+"score": 0.8962,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -82.36,
+"score": 0.65,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -101.29,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P003-N7",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.4312,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.12,
+"score": 0.8009,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N2",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4634,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.93,
+"score": 0.6372,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.207,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.91,
+"score": 0.5475,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -82.61,
+"score": 0.825,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.12,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.9412,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -83.52,
+"score": 0.8044,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2819,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.75,
+"score": 0.5737,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-IMPORTANT-P002-N19",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.5142,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.14,
+"score": 0.83,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5906,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -88.96,
+"score": 0.5067,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.493,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.47,
+"score": 0.4726,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7701,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.17,
+"score": 0.7445,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.694,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.35,
+"score": 0.5429,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1383,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.38,
+"score": 0.5234,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6388,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.81,
+"score": 0.6986,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P003-N2",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5133,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.71,
+"score": 0.4796,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P003-N2",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.6385,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.82,
+"score": 0.5235,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-IMPORTANT-P003-N2",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0958,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -100.36,
+"score": 0.6835,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5038,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.93,
+"score": 0.6513,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -79.46,
+"score": 0.825,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P003-N2",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4566,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.02,
+"score": 0.4598,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -102.58,
+"score": 0.475,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P003-N20",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.95,
+"score": 0.825,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P003-N20",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6276,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.85,
+"score": 0.6947,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P003-N20",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.7621,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.08,
+"score": 0.5667,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P003-N20",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.7475,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.27,
+"score": 0.5616,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-IMPORTANT-P003-N20",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.6729,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.25,
+"score": 0.8855,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P003-N20",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5769,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.52,
+"score": 0.6769,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P003-N20",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1454,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.2,
+"score": 0.3509,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-IMPORTANT-P003-N20",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7572,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.14,
+"score": 0.74,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-IMPORTANT-P003-N20",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -100.11,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2381,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.95,
+"score": 0.5214,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-EMERGENCY-P001-N1",
+"hop_efficiency": 1.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -78.57,
+"score": 1.0,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N11",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P001-N1",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5826,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -88.09,
+"score": 0.3748,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N17",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P001-N1",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -101.37,
+"score": 0.2,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.3791,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.49,
+"score": 0.8137,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.3928,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.2,
+"score": 0.8178,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.8991,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.56,
+"score": 0.4697,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -106.45,
+"score": 0.7,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.6428,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.95,
+"score": 0.8928,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.593,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.99,
+"score": 0.3779,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -85.44,
+"score": 0.5,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.9225,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.07,
+"score": 0.4767,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N2",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P003-N7",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.7036,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.97,
+"score": 0.9111,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -82.36,
+"score": 0.5,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -101.29,
+"score": 0.2,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P003-N7",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.4312,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.12,
+"score": 0.8294,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N2",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4634,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.93,
+"score": 0.589,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.207,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.91,
+"score": 0.5121,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -82.61,
+"score": 0.75,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.12,
+"score": 0.2,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.9412,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -83.52,
+"score": 0.7324,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2819,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.75,
+"score": 0.5346,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-EMERGENCY-P002-N19",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.5142,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.14,
+"score": 0.8543,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5906,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -88.96,
+"score": 0.3772,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.493,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.47,
+"score": 0.3479,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P002-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7701,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.17,
+"score": 0.681,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.694,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.35,
+"score": 0.4082,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1383,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.38,
+"score": 0.4915,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6388,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.81,
+"score": 0.6416,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P003-N2",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5133,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.71,
+"score": 0.354,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P003-N2",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.6385,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.82,
+"score": 0.3915,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-EMERGENCY-P003-N2",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0958,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -100.36,
+"score": 0.7287,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5038,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.93,
+"score": 0.6011,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -79.46,
+"score": 0.75,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P003-N2",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4566,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.02,
+"score": 0.337,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P003-N2",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -102.58,
+"score": 0.45,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P003-N20",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.95,
+"score": 0.75,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P003-N20",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6276,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.85,
+"score": 0.6383,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P003-N20",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.7621,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.08,
+"score": 0.4286,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P003-N20",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.7475,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.27,
+"score": 0.4243,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "1-EMERGENCY-P003-N20",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.6729,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.25,
+"score": 0.9019,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P003-N20",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5769,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.52,
+"score": 0.6231,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P003-N20",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1454,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.2,
+"score": 0.2436,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "1-EMERGENCY-P003-N20",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7572,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.14,
+"score": 0.6772,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "1-EMERGENCY-P003-N20",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -100.11,
+"score": 0.2,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2217,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.53,
+"score": 0.5387,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P001-N1",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.7249,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.58,
+"score": 0.59,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P001-N1",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -103.91,
+"score": 0.6,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.9162,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -85.8,
+"score": 0.8165,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4729,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.56,
+"score": 0.6392,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -84.15,
+"score": 0.85,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7239,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.6,
+"score": 0.7396,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.4781,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.75,
+"score": 0.7913,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6363,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.32,
+"score": 0.7045,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N7",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6487,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.05,
+"score": 0.7095,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.314,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.31,
+"score": 0.7256,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5117,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.02,
+"score": 0.6547,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7224,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.46,
+"score": 0.7389,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.6982,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.98,
+"score": 0.8793,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 3,
+"group": "2-NORMAL-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -105.11,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -83.44,
+"score": 0.85,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4653,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.03,
+"score": 0.6361,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.3367,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.81,
+"score": 0.7347,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6832,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.31,
+"score": 0.7233,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.253,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.05,
+"score": 0.4012,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.72,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P003-N7",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2924,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.01,
+"score": 0.567,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P003-N7",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7569,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -77.77,
+"score": 0.7527,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P003-N7",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -71.36,
+"score": 0.85,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4207,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.63,
+"score": 0.4683,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P003-N7",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.1519,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.72,
+"score": 0.6608,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P003-N7",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2335,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.57,
+"score": 0.5434,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1853,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.84,
+"score": 0.3741,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4401,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.12,
+"score": 0.476,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -75.89,
+"score": 0.85,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4878,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.31,
+"score": 0.6451,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P001-N21",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5306,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.35,
+"score": 0.5122,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P001-N21",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.3465,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.46,
+"score": 0.7386,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N13",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P001-N21",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.18,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.072,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.57,
+"score": 0.4788,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N17",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P001-N21",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4008,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.24,
+"score": 0.4603,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6954,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -82.68,
+"score": 0.7282,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7173,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -82.19,
+"score": 0.7369,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7395,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -81.7,
+"score": 0.7458,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P001-N21",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0545,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.96,
+"score": 0.3218,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1657,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.64,
+"score": 0.5163,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7401,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -81.72,
+"score": 0.746,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2552,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.47,
+"score": 0.4021,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N7",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5373,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.63,
+"score": 0.5149,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1464,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.11,
+"score": 0.5086,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3013,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.35,
+"score": 0.4205,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3885,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.24,
+"score": 0.4554,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N13",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2495,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.61,
+"score": 0.5498,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1001,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.23,
+"score": 0.34,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P002-N14",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.66,
+"score": 0.6,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1272,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.57,
+"score": 0.5009,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5298,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.81,
+"score": 0.6619,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -75.42,
+"score": 0.7,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3091,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.46,
+"score": 0.4236,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0877,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.07,
+"score": 0.3351,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P003-N12",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1446,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.63,
+"score": 0.5078,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P003-N12",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -71.95,
+"score": 0.85,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2783,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.24,
+"score": 0.4113,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P003-N12",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.29,
+"score": 0.6,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P003-N12",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1817,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.68,
+"score": 0.5227,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3959,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.26,
+"score": 0.4583,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4377,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.2,
+"score": 0.4751,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1328,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.91,
+"score": 0.5031,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P001-N3",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3168,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.54,
+"score": 0.4267,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P001-N3",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.5536,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -85.92,
+"score": 0.8215,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1443,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.64,
+"score": 0.5077,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N17",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P001-N3",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.07,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -75.32,
+"score": 0.85,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.392,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.76,
+"score": 0.6068,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.8117,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -79.79,
+"score": 0.7747,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P001-N3",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3405,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.98,
+"score": 0.4362,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1457,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.91,
+"score": 0.5083,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N7",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N5",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.72,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2811,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.23,
+"score": 0.5625,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1315,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.09,
+"score": 0.5026,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N5",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1755,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.54,
+"score": 0.3702,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N5",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2138,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.07,
+"score": 0.3855,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N13",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.0606,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.97,
+"score": 0.4743,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N17",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2063,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.16,
+"score": 0.5325,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.9084,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.43,
+"score": 0.8133,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P002-N5",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.6179,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.04,
+"score": 0.8471,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.8382,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.31,
+"score": 0.7853,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -85.29,
+"score": 0.85,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N5",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.7706,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -88.15,
+"score": 0.6082,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N2",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P003-N10",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.0237,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.71,
+"score": 0.4595,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2865,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.02,
+"score": 0.4146,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2162,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.54,
+"score": 0.3865,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P003-N10",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -78.58,
+"score": 0.85,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3636,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.35,
+"score": 0.4454,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P003-N10",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -100.22,
+"score": 0.6,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P003-N10",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.8755,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -81.27,
+"score": 0.8002,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2689,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.4,
+"score": 0.4075,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5987,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.26,
+"score": 0.5395,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6536,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.43,
+"score": 0.7114,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P001-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2656,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.16,
+"score": 0.4062,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P001-N19",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.08,
+"score": 0.6,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2138,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.92,
+"score": 0.5355,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N19",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -81.32,
+"score": 0.85,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N1",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6381,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.6,
+"score": 0.7053,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -79.79,
+"score": 0.85,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6769,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -88.55,
+"score": 0.7208,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7377,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.9,
+"score": 0.7451,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N13",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.3707,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.85,
+"score": 0.5983,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N17",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -106.91,
+"score": 0.45,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.9436,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -81.32,
+"score": 0.8274,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P002-N24",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.521,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.78,
+"score": 0.8084,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.9298,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -81.7,
+"score": 0.8219,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N24",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3455,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.54,
+"score": 0.4382,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1283,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.32,
+"score": 0.3513,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.47,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P003-N6",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.1096,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.63,
+"score": 0.6438,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P003-N6",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1885,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.31,
+"score": 0.5254,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -76.73,
+"score": 0.7,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1831,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.4,
+"score": 0.3732,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3651,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.36,
+"score": 0.4461,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4208,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.81,
+"score": 0.6183,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -85.29,
+"score": 0.85,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P001-N24",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.8493,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -88.55,
+"score": 0.6397,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P001-N24",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.9255,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.9,
+"score": 0.9702,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N13",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P001-N24",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4651,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.85,
+"score": 0.486,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.9297,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.81,
+"score": 0.8219,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N17",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P001-N24",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -106.91,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P001-N24",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6537,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.78,
+"score": 0.7115,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P001-N24",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4335,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.54,
+"score": 0.4734,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N1",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.53,
+"score": 0.45,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.3299,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.54,
+"score": 0.582,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5622,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -85.92,
+"score": 0.6749,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N17",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.0192,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.07,
+"score": 0.4577,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -75.32,
+"score": 0.85,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P002-N3",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.4036,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.76,
+"score": 0.7615,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.9765,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -75.89,
+"score": 0.8406,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N3",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3531,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.98,
+"score": 0.4412,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N18",
+"hop_efficiency": 0.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -83.44,
+"score": 0.7,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N18",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.23,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P003-N18",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.2554,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.71,
+"score": 0.7022,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N18",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3064,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.0,
+"score": 0.4226,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N18",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.91,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -84.68,
+"score": 0.664,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N1",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.7669,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -85.8,
+"score": 0.6067,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2925,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.16,
+"score": 0.417,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.08,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P002-N19",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.2354,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.92,
+"score": 0.6942,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N19",
+"hop_efficiency": 0.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -82.68,
+"score": 0.7,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N2",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P003-N16",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5778,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.56,
+"score": 0.6811,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N16",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -105.11,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N11",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P003-N16",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4168,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.05,
+"score": 0.6167,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P003-N16",
+"hop_efficiency": 1.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -83.39,
+"score": 1.0,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P003-N16",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4924,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.41,
+"score": 0.4969,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N1",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.8777,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -84.15,
+"score": 0.8011,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7397,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.35,
+"score": 0.7459,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.483,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.46,
+"score": 0.6432,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N13",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.18,
+"score": 0.45,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N17",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-NORMAL-P002-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5588,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.24,
+"score": 0.6735,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-NORMAL-P002-N21",
+"hop_efficiency": 1.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -82.19,
+"score": 1.0,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-NORMAL-P002-N21",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.076,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.96,
+"score": 0.3304,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.3,
+"signal": 0.4
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2217,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.53,
+"score": 0.5526,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P001-N1",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.7249,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.58,
+"score": 0.5537,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-IMPORTANT-P001-N1",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -103.91,
+"score": 0.65,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.9162,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -85.8,
+"score": 0.7957,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4729,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.56,
+"score": 0.6405,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -84.15,
+"score": 0.825,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7239,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.6,
+"score": 0.7284,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.4781,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.75,
+"score": 0.8173,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6363,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.32,
+"score": 0.6977,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N7",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6487,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.05,
+"score": 0.7021,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.314,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.31,
+"score": 0.7599,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5117,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.02,
+"score": 0.6541,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7224,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.46,
+"score": 0.7278,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.6982,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.98,
+"score": 0.8944,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 3,
+"group": "2-IMPORTANT-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -105.11,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -83.44,
+"score": 0.825,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4653,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.03,
+"score": 0.6379,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.3367,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.81,
+"score": 0.7678,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6832,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.31,
+"score": 0.7141,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.253,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.05,
+"score": 0.3886,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.72,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P003-N7",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2924,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.01,
+"score": 0.5774,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P003-N7",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7569,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -77.77,
+"score": 0.7399,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P003-N7",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -71.36,
+"score": 0.825,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4207,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.63,
+"score": 0.4472,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-IMPORTANT-P003-N7",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.1519,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.72,
+"score": 0.7032,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P003-N7",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2335,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.57,
+"score": 0.5567,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1853,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.84,
+"score": 0.3649,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4401,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.12,
+"score": 0.454,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -75.89,
+"score": 0.825,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4878,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.31,
+"score": 0.6457,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P001-N21",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5306,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.35,
+"score": 0.4857,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-IMPORTANT-P001-N21",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.3465,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.46,
+"score": 0.7713,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N13",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P001-N21",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.18,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.072,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.57,
+"score": 0.5002,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N17",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P001-N21",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4008,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.24,
+"score": 0.4403,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6954,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -82.68,
+"score": 0.7184,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7173,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -82.19,
+"score": 0.726,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7395,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -81.7,
+"score": 0.7338,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P001-N21",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0545,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.96,
+"score": 0.3191,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1657,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.64,
+"score": 0.533,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7401,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -81.72,
+"score": 0.734,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2552,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.47,
+"score": 0.3893,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N7",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5373,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.63,
+"score": 0.488,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1464,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.11,
+"score": 0.5262,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3013,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.35,
+"score": 0.4055,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3885,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.24,
+"score": 0.436,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N13",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2495,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.61,
+"score": 0.5623,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1001,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.23,
+"score": 0.335,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-IMPORTANT-P002-N14",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.66,
+"score": 0.65,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1272,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.57,
+"score": 0.5195,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5298,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.81,
+"score": 0.6604,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -75.42,
+"score": 0.65,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3091,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.46,
+"score": 0.4082,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0877,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.07,
+"score": 0.3307,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P003-N12",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1446,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.63,
+"score": 0.5256,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P003-N12",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -71.95,
+"score": 0.825,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2783,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.24,
+"score": 0.3974,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-IMPORTANT-P003-N12",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.29,
+"score": 0.65,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P003-N12",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1817,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.68,
+"score": 0.5386,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3959,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.26,
+"score": 0.4385,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4377,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.2,
+"score": 0.4532,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1328,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.91,
+"score": 0.5215,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P001-N3",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3168,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.54,
+"score": 0.4109,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-IMPORTANT-P001-N3",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.5536,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -85.92,
+"score": 0.8438,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1443,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.64,
+"score": 0.5255,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N17",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P001-N3",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.07,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -75.32,
+"score": 0.825,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.392,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.76,
+"score": 0.6122,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P001-N3",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.8117,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -79.79,
+"score": 0.7591,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P001-N3",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3405,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.98,
+"score": 0.4192,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1457,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.91,
+"score": 0.526,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N7",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N5",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.72,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2811,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.23,
+"score": 0.5734,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1315,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.09,
+"score": 0.521,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N5",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1755,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.54,
+"score": 0.3614,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N5",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2138,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.07,
+"score": 0.3748,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N13",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.0606,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.97,
+"score": 0.4962,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N17",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2063,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.16,
+"score": 0.5472,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.9084,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.43,
+"score": 0.7929,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-IMPORTANT-P002-N5",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.6179,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.04,
+"score": 0.8663,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.8382,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.31,
+"score": 0.7684,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P002-N5",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -85.29,
+"score": 0.825,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P002-N5",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.7706,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -88.15,
+"score": 0.5697,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N2",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P003-N10",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.0237,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.71,
+"score": 0.4833,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2865,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.02,
+"score": 0.4003,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2162,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.54,
+"score": 0.3757,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P003-N10",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -78.58,
+"score": 0.825,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3636,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.35,
+"score": 0.4273,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-IMPORTANT-P003-N10",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -100.22,
+"score": 0.65,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P003-N10",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.8755,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -81.27,
+"score": 0.7814,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2689,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.4,
+"score": 0.3941,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5987,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.26,
+"score": 0.5095,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1283,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.32,
+"score": 0.3449,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.47,
+"score": 0.3,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-IMPORTANT-P003-N6",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.1096,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.63,
+"score": 0.6883,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-IMPORTANT-P003-N6",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1885,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.31,
+"score": 0.541,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -76.73,
+"score": 0.65,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1831,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.4,
+"score": 0.3641,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-IMPORTANT-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3651,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.36,
+"score": 0.4278,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.3,
+"hop": 0.35,
+"signal": 0.35
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2217,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.53,
+"score": 0.5165,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P001-N1",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.7249,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.58,
+"score": 0.4175,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-EMERGENCY-P001-N1",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -103.91,
+"score": 0.7,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.9162,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -85.8,
+"score": 0.7248,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4729,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.56,
+"score": 0.5919,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -84.15,
+"score": 0.75,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P001-N1",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7239,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.6,
+"score": 0.6672,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.4781,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.75,
+"score": 0.8434,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6363,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.32,
+"score": 0.6409,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N7",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6487,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.05,
+"score": 0.6446,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.314,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.31,
+"score": 0.7942,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5117,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.02,
+"score": 0.6035,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7224,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.46,
+"score": 0.6667,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.6982,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.98,
+"score": 0.9095,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 3,
+"group": "2-EMERGENCY-P002-N4",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -105.11,
+"score": 0.2,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -83.44,
+"score": 0.75,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4653,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.03,
+"score": 0.5896,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P002-N4",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.3367,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.81,
+"score": 0.801,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P002-N4",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6832,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.31,
+"score": 0.655,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.253,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.05,
+"score": 0.2759,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.72,
+"score": 0.2,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P003-N7",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2924,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.01,
+"score": 0.5377,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P003-N7",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7569,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -77.77,
+"score": 0.6771,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P003-N7",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -71.36,
+"score": 0.75,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4207,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.63,
+"score": 0.3262,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-EMERGENCY-P003-N7",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.1519,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.72,
+"score": 0.7456,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P003-N7",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2335,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.57,
+"score": 0.52,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1853,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.84,
+"score": 0.2556,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N7",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4401,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.12,
+"score": 0.332,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -75.89,
+"score": 0.75,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.4878,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.31,
+"score": 0.5963,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N8",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P001-N21",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5306,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.35,
+"score": 0.3592,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-EMERGENCY-P001-N21",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.3465,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.46,
+"score": 0.8039,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N13",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P001-N21",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -98.18,
+"score": 0.2,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.072,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.57,
+"score": 0.4716,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N17",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P001-N21",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4008,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.24,
+"score": 0.3203,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N19",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.6954,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -82.68,
+"score": 0.6586,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7173,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -82.19,
+"score": 0.6652,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P001-N21",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7395,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -81.7,
+"score": 0.6718,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P001-N21",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0545,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.96,
+"score": 0.2163,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N3",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1657,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.64,
+"score": 0.4997,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.7401,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -81.72,
+"score": 0.672,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2552,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.47,
+"score": 0.2766,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N7",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5373,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.63,
+"score": 0.3612,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N9",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1464,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.11,
+"score": 0.4939,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3013,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.35,
+"score": 0.2904,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N12",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3885,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.24,
+"score": 0.3166,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N13",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.2495,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.61,
+"score": 0.5249,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1001,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.23,
+"score": 0.23,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N20",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-EMERGENCY-P002-N14",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.66,
+"score": 0.7,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N21",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1272,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -96.57,
+"score": 0.4881,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N24",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P002-N14",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.5298,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.81,
+"score": 0.6089,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P002-N14",
+"hop_efficiency": 0.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -75.42,
+"score": 0.5,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3091,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -89.46,
+"score": 0.2927,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0877,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.07,
+"score": 0.2263,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P003-N12",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1446,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.63,
+"score": 0.4934,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N10",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P003-N12",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -71.95,
+"score": 0.75,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2783,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.24,
+"score": 0.2835,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-EMERGENCY-P003-N12",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -97.29,
+"score": 0.7,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P003-N12",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1817,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.68,
+"score": 0.5045,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3959,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.26,
+"score": 0.3188,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N12",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.4377,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -86.2,
+"score": 0.3313,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N2",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P003-N10",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.0237,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -99.71,
+"score": 0.4571,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2865,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.02,
+"score": 0.2859,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N5",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2162,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -95.54,
+"score": 0.2649,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N6",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P003-N10",
+"hop_efficiency": 0.5,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -78.58,
+"score": 0.75,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3636,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -92.35,
+"score": 0.3091,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-EMERGENCY-P003-N10",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -100.22,
+"score": 0.7,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P003-N10",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.8755,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -81.27,
+"score": 0.7127,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.2689,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -94.4,
+"score": 0.2807,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N10",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.5987,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.26,
+"score": 0.3796,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N4",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1283,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.32,
+"score": 0.2385,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N14",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -93.47,
+"score": 0.2,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N15",
+"congestion_availability": 1.0,
+"estimated_hops": 0,
+"group": "2-EMERGENCY-P003-N6",
+"hop_efficiency": 1.0,
+"normalized_rssi": 0.1096,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -91.63,
+"score": 0.7329,
+"status": "SELECTED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N16",
+"congestion_availability": 1.0,
+"estimated_hops": 1,
+"group": "2-EMERGENCY-P003-N6",
+"hop_efficiency": 0.5,
+"normalized_rssi": 0.1885,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.31,
+"score": 0.5066,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N18",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 1.0,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -76.73,
+"score": 0.5,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N23",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.1831,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -90.4,
+"score": 0.2549,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+},
+{
+"candidate": "N25",
+"congestion_availability": 1.0,
+"estimated_hops": 2,
+"group": "2-EMERGENCY-P003-N6",
+"hop_efficiency": 0.0,
+"normalized_rssi": 0.3651,
+"queue_capacity": 30,
+"queue_occupancy": 0,
+"rssi_dbm": -87.36,
+"score": 0.3095,
+"status": "EVALUATED",
+"weights": {
+"congestion": 0.2,
+"hop": 0.5,
+"signal": 0.3
+}
+}
+]
